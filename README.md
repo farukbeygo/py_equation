@@ -8,6 +8,7 @@ To install the library, you can use pip:
 
 ```bash
 pip install pyequation
+```
 
 ## Documentation
 
